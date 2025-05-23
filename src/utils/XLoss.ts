@@ -90,5 +90,10 @@ export function XLoss(content: string, cssPropertiesStr: string, moreContent: st
 
 export default {
     XLoss,
-    getActualX
+    getActualX,
+    htmlElements,
+    cssClass,
+    cssProperties,
+    allXelements,
+    allXContent
 };
