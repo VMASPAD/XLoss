@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/user-attachments/assets/22f975bc-c654-4da6-82f4-d21ec3d65813" width="250" height="250">
+</p>
+
 # XLoss
 This project is a concept of the idea to protect web content against scraping.
 ![Version](https://img.shields.io/badge/version-1.0.3-blue.svg)
