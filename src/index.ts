@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Exportación por defecto
 export default {
-  version: '1.0.0',
+  version: '1.0.3',
   XLoss,
   getActualX
 };
